@@ -1,9 +1,11 @@
 
 # Daniel Nilsson :computer::musical_note::video_game:
 skriv lite om dig själv här
+
+---------------------------------------------------------------------
+
 ## GitHub portfolio :briefcase:
 
-TODO: fill in with my contents
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
@@ -12,9 +14,9 @@ TODO: fill in with my contents
 
 [pr]: https://github.com/Danneftw1/Python-Daniel-Nilsson
 
----
 
-## Deployed applications :desktop_computer:
+
+<!-- ## Deployed applications :desktop_computer:
 
 This is a selection of deployed applications.
 
@@ -31,12 +33,12 @@ This is a selection of video materials that I have produced/participated in (not
 
 | Video                                 | Description                                  |
 | ------------------------------------- | -------------------------------------------- |
-| N/A                                   | Not yet created                              |
+| N/A                                   | Not yet created                              | -->
 
 
 ---
 
-## CV & Contact info :iphone: :envelope: 
+## Full CV & Contact info :iphone: :envelope: 
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
