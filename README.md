@@ -1,7 +1,6 @@
 
 # Daniel Nilsson :computer::musical_note::video_game:
-
-
+skriv lite om dig själv här
 ## GitHub portfolio :briefcase:
 
 TODO: fill in with my contents
