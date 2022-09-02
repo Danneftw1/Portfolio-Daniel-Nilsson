@@ -1,9 +1,8 @@
 
 # Daniel Nilsson :computer::musical_note::video_game:
-skriv lite om dig själv här
+Aspiring python master and passionate about IT. Currently studying AI & Machine learning at IT-högskolan in Gothenburg, Sweden.
 
----------------------------------------------------------------------
-
+Openminded, ambitious, problemsolver that is a flexible worker and have the ability to work in both groups and alone.
 ## GitHub portfolio :briefcase:
 
 
