@@ -4,13 +4,13 @@
 
 Aspiring python master and passionate about IT. Currently studying AI & Machine learning at IT-högskolan in Gothenburg, Sweden.
 
-Openminded, ambitious, problemsolver that    is a flexible worker and have the ability to work in both groups and alone.
+Openminded, ambitious, problemsolver that is a flexible worker and thrives in a group with good synergy, but has the ability to work alone.
 ## GitHub portfolio :briefcase:
 
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python exercises][pr]         | Different python exercises that I've completed,|
+| [Python exercises][pr]         | Completed python exercises         |
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [pr]: https://github.com/Danneftw1/Python-Daniel-Nilsson
