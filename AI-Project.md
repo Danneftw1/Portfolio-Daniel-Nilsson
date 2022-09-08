@@ -23,4 +23,6 @@ The deployment-phase like any other part in this chain has different roads you c
 
 Machine learning is mainly based on [four big types of usage][data7]: Supervised learning, unsupervised learning, semi-supervised learning & reinforcement learning. Supervised learning is when the algorithm is given labeled training data to classify data or foresee certain outcomes correctly. When it comes to unsupervised learning, the data is instead unlabled. The algorithm instead search the data to check for connections and/or correlations. Semi-supervised just means that you can use a mix of former methods, i.e both use labled data and unlabled data. Reinforcement learning takes inspiration from behaviourism, which punishes and rewards in order to get a wanted outcome.
 
+This document is not supposed to viewed as an exhaustive list when it comes to any of paragraphs above. It is mainly text which can help you get on the right track and look into the mentioned contents more thoroughly.
+
 [data7]: https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML ("What are the different types of machine learning?")
