@@ -4,7 +4,7 @@
 
 Aspiring python master and passionate about IT. Currently studying AI & Machine learning at IT-högskolan in Gothenburg, Sweden.
 
-Openminded, ambitious, problemsolver that is a flexible worker and thrives in a group with good synergy, but has the ability to work alone.
+Openminded, ambitious, problemsolver that is a flexible worker and thrives in a group with good synergy, but also has an ability to work alone aswell.
 ## GitHub portfolio :briefcase:
 
 
