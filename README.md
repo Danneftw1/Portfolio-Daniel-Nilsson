@@ -10,7 +10,8 @@ Openminded, ambitious, problemsolver that is a flexible worker and thrives in a 
 
 | Repo                           | Description                        |
 | ------------------------------ | ---------------------------------- |
-| [Python exercises][pr]         | Completed python exercises         |
+|[Olympics Dashboard][pr]        | Created this dashboard for our data processing course|
+
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [pr]: https://github.com/Danneftw1/Python-Daniel-Nilsson
