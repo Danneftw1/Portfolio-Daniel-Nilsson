@@ -14,7 +14,7 @@ Openminded, ambitious, problemsolver that is a flexible worker and thrives in a 
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[pr]: https://github.com/Danneftw1/Python-Daniel-Nilsson
+[pr]: https://olympics-dashboard-sweden.herokuapp.com/
 
 
 
