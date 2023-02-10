@@ -5,7 +5,8 @@
 Aspiring python master and passionate about IT. Currently studying AI & Machine learning at IT-högskolan in Gothenburg, Sweden.
 
 Openminded, ambitious, problemsolver that is a flexible worker and thrives in a group with good synergy, but also has an ability to work alone aswell.
-## GitHub portfolio :briefcase:
+
+<!-- ## GitHub portfolio :briefcase:
 
 
 | Repo                           | Description                        |
@@ -14,7 +15,7 @@ Openminded, ambitious, problemsolver that is a flexible worker and thrives in a 
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[pr]: https://olympics-dashboard-sweden.herokuapp.com/
+<!-- : https://olympics-dashboard-sweden.herokuapp.com/ -->
 
 
 
@@ -42,6 +43,6 @@ This is a selection of video materials that I have produced/participated in (not
 
 ## Full CV & Contact info :iphone: :envelope: 
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+- [![linkedIn icon](assets/linkedIn-icon.png) LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/daniel-nilsson-a3a65b241/
