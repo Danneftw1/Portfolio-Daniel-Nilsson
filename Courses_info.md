@@ -1,4 +1,5 @@
 # Summary of Educational Content (chronological order)
+** List is not finished, will add more courses as I finish them **
 
 # Python Programming
 This course we learned the fundamentals about programming using Python, since it's a very important part within machine learning to be able to progam. The course consisted of: 
