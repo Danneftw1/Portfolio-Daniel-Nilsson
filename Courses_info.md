@@ -46,7 +46,7 @@ In this course we learned the basics of linear algebra in order to understand th
 * Bases & linear independence
 * Orthogonal basis & orthogonal projection
 * Matrices
-* Inverse of a matrices
+* Inverse of matrices
 * Least squares method
 * Linear mappings
 * Eigenvalues
