@@ -1,5 +1,6 @@
 # Summary of Educational Content (chronological order)
-** List is not finished, will add more courses as I finish them **
+
+*Not yet fully completed*
 
 # Python Programming
 This course we learned the fundamentals about programming using Python, since it's a very important part within machine learning to be able to progam. The course consisted of: 
@@ -64,3 +65,25 @@ This course was about probability theory and statistical basics needed for machi
 * Comparing two populations
 * Bayseian inference
 * Regression & Correlation
+
+# Machine learning
+This is one of the main courses for this program, and all of the courses above were a prerequisite for us to be able to finally start machine learning:
+
+* More pandas
+* Linear regression
+* Gradient descent
+* Sci-kit learn (sklearn)
+* Polynomial regression
+* Overfitting & underfitting
+* Regularization
+* Cross-validation
+* Logistic regression
+* K-nearest neighbors algorithm
+* Support vector machine
+* Decision trees
+* Random forest
+* Natural language processing (NLP)
+* Naive bayes
+* K-means 
+* Principal component analysis (PCA)
+* Artificial neural network (ANN)
